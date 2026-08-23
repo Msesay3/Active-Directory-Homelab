@@ -1,1 +1,6 @@
-# Hello World
+# Role Based Access Control
+Implemented a Role-Based Access Control framework within a Windows Server Active Directory (AD DC) environment to enforce data segregation and department-level security compliance.
+ - Automated Provisioning: Developed and executed a PowerShell script to bulk-provision 100 user accounts
+ - Architecture: Structured the AD environment by designing dedicated Organizational Units (OUs) and Security Groups to mirror corporate departmental divisions
+ - Access Control & File Security: Standardized data access by creating departmental shared folders governed by strict NTFS and Share permissions
+ - Validation & Testing: Verified the security posture by deploying a Windows 11 Client VM to conduct cross-departmental access testing, ensuring proper permission inheritance and restriction enforcement.
