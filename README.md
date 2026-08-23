@@ -11,16 +11,11 @@ Documentation of my self hosted Active Directory Domain Controller and general I
 - Microsoft Azure/Entra ID
 - Powershell
 
-## Lab Objective
+## Lab Objectives
 Windows Active Directory
-- Create Windows Server Domain Controller and Windows 11 Virtual Machines in Proxmox
-- Install Active Directory Domain Services on Domain Controller
-- Connect Windows 11 Client to Domain Controller
-- Create a Script Used to Generate New Users in Bulk via Powershell 
-- Create Department Organizational Units and Security Groups
-- Assign Users to Respective Department OUs
-- Create Shared Folders for Departments
-- Apply Share and NTFS Permissions to Folders  
+- Implement Role Based Access Control to Organizational Units and Users
+- User Management (Add, Delete, Modify)
+- Group Policy Management
 
 Microsoft Azure 
 - User Management
