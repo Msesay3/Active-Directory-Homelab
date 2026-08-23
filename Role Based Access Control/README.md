@@ -59,7 +59,7 @@ To implement RBAC, I provisioned local departmental folders and created network 
 ![NTFS Permissions](Accounting%20NTFS%20Permissions.png)
 
 # Access Test
-To see if my permissions were successful I logged into the Windows 11 Client VM using one of the accounting users information. I attempted to map the Accounting Shared Folder using the network path and it was successful. I could read, write, and delete files within that folder. To test if I was able to access the other department folders, I typed in the IT's network path and was stopped as expected, preventing users from accessing information outside of their role
+I verified the RBAC implementation by logging into a Windows 11 client VM with an Accounting test account. The account successfully mapped and modified files within the Accounting network share, but was denied access when attempting to reach the restricted IT network path, validating our security boundaries
 
 ![Mapping Drive](Mapping%20Accounting%20Shared%20Drive.png)
 ![Drive Successfully Mapped](Mapping%20Accounting%20Shared%20Drive%202.png)
