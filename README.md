@@ -13,7 +13,7 @@ Documentation of my self hosted Active Directory Domain Controller and general I
 
 ## Lab Objectives
 Windows Active Directory
-- Implement Role Based Access Control to Organizational Units and Users ![RBAC](Role%20Based%20Access%20Control/README.md)
+- [Implement Role Based Access Control to Organizational Units and Users](Role%20Based%20Access%20Control/README.md)
 - User Management (Add, Delete, Modify)
 - Group Policy Management
 
