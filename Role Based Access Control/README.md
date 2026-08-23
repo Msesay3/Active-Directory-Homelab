@@ -21,4 +21,8 @@ Implemented a Role-Based Access Control framework within a Windows Server Active
 | Windows 11 Client VM | Domain-Joined Client | `192.168.1.112` |
 
 *Wins 11 Client was joined to the domain via using the Wins Server IP as its DNS*
-![WS Config](Role-Based-Access-Control/WS%20Config.png)
+### WS Config
+![WS Config](WS%20Config.png)
+
+### W11 Config
+![W11 Config](WS11%20Config.png)
