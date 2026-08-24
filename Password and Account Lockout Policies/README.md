@@ -23,12 +23,12 @@ Testing out Group Policies that attempt to strengthen company resistence to acco
 
 ### W11 Config
 
-![W11 Config](W11%20Config.png)
+![W11 Config](Role%20Based%20Access%20Control/W11%20Config.png/)
 
 # 
 
 
-![Domain Server][Domain%20Server.png]
+![Domain Server](Domain%20Server.png)
 
 # 
 
