@@ -34,6 +34,7 @@ Testing out Group Policies that attempt to strengthen company resistence to acco
 
 
 ![Account Policy](Account%20Policy.png)
+![Password Policy](Password%20Policy.png)
 ![Account Lockout Policy](Account%20Lockout%20Policy.png)
 
 # Updating to Computers on Domain
@@ -41,6 +42,16 @@ Testing out Group Policies that attempt to strengthen company resistence to acco
 
 ![Force Update](Force%20Update.png)
 ![Force Update Success](Force%20Update%20Successful.png)
+
+# Updating Password
+
+
+![User Changing Password](User%20Changing%20Password.png)
+![User Changing Password 2](User%20Changing%20Password%202.png)
+![Bad Password](Bad%20New%20Password.png)
+![Unsuccessful Password Change](Unsuccessful%20Password%20Change.png)
+![Good Password](Good%20New%20Password.png)
+![Successful Password Change](Successful%20Password%20Change.png)
 
 # Testing Lockout Policy
 
