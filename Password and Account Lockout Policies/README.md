@@ -1,5 +1,5 @@
 # Password and Account Lockout Policy
-Testing out Group Policies that attempt to strengthen company resistence to account breaches. This is done by setting up strict rules within the Password Policy and Account Lockout Policy for users and devices on this domain
+This lab documents the implementation of Group Policy Objects (GPOs) designed to strengthen domain resistance against unauthorized access. The project focuses on deploying strict password complexity rules and account lockout mechanisms to protect both user accounts and domain-joined devices.
 
 # Key Tech
  - Proxmox Virtual Environment 
