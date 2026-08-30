@@ -1,13 +1,12 @@
 # Password and Account Lockout Policy
-This lab documents the implementation of Group Policy Objects (GPOs) designed to strengthen domain resistance against unauthorized access. The project focuses on deploying strict password complexity rules and account lockout mechanisms to protect both user accounts and domain-joined devices
+This lab documents the implementation of Group Policy Objects (GPOs) designed to strengthen domain resistance against unauthorized access. The project focuses on deploying strict password complexity rules and account lockout mechanisms to protect both user accounts and domain-joined devices.
 
 # Key Tech
- - Proxmox Virtual Environment 
- - Windows Server AD DC VM
- - Windows 11 Client VM
- - Powershell Administrator
- - Group Policy Management
- - Account Policies
+* **Hypervisor**: Proxmox Virtual Environment (PVE)
+* **Directory Services**: Active Directory Domain Services (AD DS)
+* **Management Tools**: Group Policy Management Console (GPMC), Active Directory Users and Computers (ADUC)
+* **Automation/CLI**: Elevated PowerShell (Admin)
+* **Operating Systems**: Windows Server 2022, Windows 11 Enterprise
 
 # Proxmox Virtual Environment
 | Machine | Role | IP Address |
