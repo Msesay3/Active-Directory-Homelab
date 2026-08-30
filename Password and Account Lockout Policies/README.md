@@ -68,4 +68,4 @@ Testing out Group Policies that attempt to strengthen company resistence to acco
 
 ![Login Success](Login%20Successful%201.png)
 
-![Login Success](Login%20Successful%202.png)
+![Login Success](Login%20Succesful%202.png)
